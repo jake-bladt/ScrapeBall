@@ -2,6 +2,6 @@
 {
     public class BoxScore
     {
-        FileMetadata Metadata { get; set; }
+        public FileMetadata Metadata { get; set; }
     }
 }
